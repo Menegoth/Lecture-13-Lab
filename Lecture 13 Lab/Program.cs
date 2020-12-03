@@ -1,4 +1,8 @@
-﻿using System;
+﻿/// Week 13		Lab 
+/// File Name: Program.cs
+/// @author: Antonio Monteiro
+
+using System;
 
 namespace Lecture_13_Lab {
     class Rectangle {
